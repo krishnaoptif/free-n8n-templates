@@ -252,7 +252,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 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"
+              "value": ""
             },
             {
               "name": "Content-type",
@@ -384,7 +384,7 @@
           "value": "1V_USzVT-v-6LIjk3HPd0nlr2vnv4nJAr",
           "mode": "list",
           "cachedResultName": "n8n testing",
-          "cachedResultUrl": "https://drive.google.com/drive/folders/1V_USzVT-v-6LIjk3HPd0nlr2vnv4nJAr"
+          "cachedResultUrl": "#"
         },
         "options": {}
       },
